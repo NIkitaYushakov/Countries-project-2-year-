@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1571516130 source:c:\users\Никита\desktop\country\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototypes.h"
+
+1571516137 c:\users\Никита\desktop\country\prototypes.h
+
+1571638122 source:c:\users\Никита\desktop\country\main.c
+	<stdio.h>
+	<locale.h>
+	"Prototypes.h"
+
+1571765052 source:c:\users\Никита\desktop\Программирование\c\Системное программирование\country\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototypes.h"
+
+1593514614 c:\users\Никита\desktop\Программирование\c\Системное программирование\country\prototypes.h
+
+1571765051 source:c:\users\Никита\desktop\Программирование\c\Системное программирование\country\main.c
+	<stdio.h>
+	<locale.h>
+	"Prototypes.h"
+
+1571765052 c:\users\Никита\desktop\Программирование\c\Системное программирование\country\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototypes.h"
+
